@@ -1,0 +1,26 @@
+body{
+	background-color:#89609E;
+
+}
+#formulario{
+	display: none;
+}
+form{
+	margin-left: 123px auto;
+	width: 350px;
+	background: #E2E4E6;
+    padding: 10px;
+    border-radius: 4px;    
+}
+button{
+	border: none;
+	background: rgb(88,201,185);
+	color:rgb(88,201,185);
+}
+div{
+	width: 350px;
+	height: 20px;
+	border-radius: 4px;
+	background-color: #79558B;
+	color: #D2C6D8;
+}
