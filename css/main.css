@@ -85,4 +85,13 @@ body {
 	border-radius: 3px;
 	margin-top: 10px;
 }
-
+.inputS{
+	height: 30px;
+	width: 210px;
+	background-color: white;
+	display: block;
+	resize: none;
+	border : none;
+	border-radius: 3px;
+	margin-top: 10px;
+}
